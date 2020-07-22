@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "570005191289",
+    "firebase_url": "https://newsletter-a774d.firebaseio.com",
+    "project_id": "newsletter-a774d",
+    "storage_bucket": "newsletter-a774d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570005191289:android:1d53afdd56ec89e4dab2a8",
+        "android_client_info": {
+          "package_name": "com.example.newsletter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570005191289-p7tagjuk1jjopjgpd8skacqcqbgq54di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqDr3ZpTvIApcyoABAVLzziZO9e3upeJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570005191289-p7tagjuk1jjopjgpd8skacqcqbgq54di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
