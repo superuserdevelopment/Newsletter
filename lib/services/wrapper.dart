@@ -10,7 +10,7 @@ class Wrapper extends StatelessWidget {
       PushNotificationService();
   @override
   Widget build(BuildContext context) {
-    _notificationService.initialise();
+    _notificationService.initialise(context);
     final user = Provider.of<User>(context);
     print(user);
     if (user != null) {
